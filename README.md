@@ -62,5 +62,5 @@ A **home services web app**  made with **MERN**.
 <a href="https://brokandfix.herokuapp.com/"><img src="https://i.ibb.co/YpMy3vf/Captura-de-pantalla-363.png" ></a>
 
 ### <a href="https://xtreme-games.herokuapp.com/">**Xtreme** </a>
-An ** Ecommerce FullStack web app** for selling video games in digital format.
+An **Ecommerce FullStack web app** for selling video games in digital format.
 <a href="https://xtreme-games.herokuapp.com/"><img src="https://i.ibb.co/7zH3J1H/Captura-de-pantalla-366.png" ></a>
