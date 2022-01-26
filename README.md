@@ -57,11 +57,10 @@ A **travel itinerary** web app. You can sign up to hit like and comment on activ
 <a href="https://mytinerary-takaes.netlify.app/"><img src="https://i.ibb.co/2K1chYL/Captura-de-pantalla-364.png" ></a>
 
 ### <a href="https://brokandfix.herokuapp.com/">**Brok&Fix** </a>
-A **home services web app ** made with **MERN**.
+A **home services web app**  made with **MERN**.
 
 <a href="https://brokandfix.herokuapp.com/"><img src="https://i.ibb.co/YpMy3vf/Captura-de-pantalla-363.png" ></a>
 
-### <a href="https://xtreme-games.herokuapp.com/">**Slippers** </a>
-A **self-managing Ecommerce** FullStack for shoes. It has an admin panel only for the owner, to upload, edit and delete products. You can also add, edit and delete categories and subcategories; add variations for each product, and check the current verification status of registered users.
-
+### <a href="https://xtreme-games.herokuapp.com/">**Xtreme** </a>
+An ** Ecommerce FullStack web app** for selling video games in digital format.
 <a href="https://xtreme-games.herokuapp.com/"><img src="https://i.ibb.co/7zH3J1H/Captura-de-pantalla-366.png" ></a>
