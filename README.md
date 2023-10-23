@@ -1,9 +1,8 @@
-#Takaes Mariana
+
 Hi! I´m Mariana, and I'm a FullStack MERN Web Developer. I am a self-taught person who loves art, design and have a lot of fun playing with the frontend.
 I spend my spare time drawing, painting and reading, love Haruki Murakami.
 
-- 🌱 I’m currently learning abour UX/UI design
-- 🥅 2022 Goals: find a job in IT as a developer
+- 🌱 I’m also UX/UI designer.
 - 👀 I’m interesting in Web projects
 
 ## Skills and Experience
